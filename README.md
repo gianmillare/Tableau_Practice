@@ -1,6 +1,4 @@
 # Tableau_Practice
-Notes and Practice Examples taken from UC Berkeley's Data Analytics Program.
-
 
 ### Lecture 1: Tableau Basics
 | Section | Tableau Story | File Link | Prompts | Resource |
