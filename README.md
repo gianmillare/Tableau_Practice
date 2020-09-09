@@ -2,6 +2,8 @@
 
 A repository of all practice problems and assignments I came across during my journey to become a data scientist. This repository is a combination of Tableau lectures from UC Berkeley's Data Analytics Boot Camp and Official Tableau Lecture videos.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ## UC Berkeley Data Analytics: Tableau Lectures
 
 ### Lecture 1: Tableau Basics
